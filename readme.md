@@ -182,7 +182,7 @@ sessionId =  7BF0BB4CB2852??????233D03C9F6EBE    sessionId请自己爬取(sessio
 
     在企业微信中进入校园卡服务，查询一遍水电费，随便找到一个请求域名为`wxcard.sgu.edu.cn`，从请求头中即可找到`sessionId`
 
-    ![](image/image_4Bb7OsJOBA.png)
+    ![](image/Fiddler_sessionid.png)
 
     **sessionId可以查到自己的隐私信息，包括本人身份证、信用卡余额、系别班级等，切勿流出**
 
