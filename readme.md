@@ -200,9 +200,9 @@ sessionId =  7BF0BB4CB2852??????233D03C9F6EBE    sessionId请自己爬取(sessio
 
 ## exe版
 
-*   将`fee.properties`配置文件置于`SGU Water and Electricity Bill enquiry.exe`同一文件夹
+*   配置`fee.properties`配置文件
 
-*   双击exe文件运行即可
+*   双击`SGU-Water-and-Electricity-Bill-enquiry-xxx.exe`文件运行即可
 
 # 故障排除
 
